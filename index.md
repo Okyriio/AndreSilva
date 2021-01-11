@@ -3,6 +3,10 @@
 
 BlogposGPR4100.1
 
+Ce projet de jeu vient à l'origine dans le cadre du premier module de ma formation à la SAE Institute.
+
+Introduction :
+
 Après avoir durement penser à quel jeu je voulais faire, je me suis porté sur un jeu en vue du dessus avec des projectiles, des ennemis, une barre de vie etc. J'avais hésité à faire un platformer mais je voulais essayer quelque chose d'inconnu et de me lancer un défi personnel.
 
 Concept de Kilamon :
@@ -32,8 +36,6 @@ Affaire à suivre.
 
 Conclusions :
 
-- C'était fun, très fun.
-- Appris énormément en peu de temps.
-- Sensation d'accomplissment.
-- Déçu de pas avoir réglé tout les bugs.
-- Hâte de recommencer.
+J'ai appris énormément grâce à ce projet, malgré les quelques problèmes restant. J'ai appris à utiliser le moteur 2D de Unity, ainsi que l'utilisation de FMOD pour les sons et la musique.
+Bien que difficile ce projet m'as autant donné envie de m'arracher les cheveux qu'il m'a donné de plaisir à créer. Créer un petit jeu, modeste certe, mais mon petit jeu. Je n'ai que encore plus hâte pour le prochain projet.
+
